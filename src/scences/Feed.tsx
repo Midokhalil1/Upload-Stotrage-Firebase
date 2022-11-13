@@ -8,19 +8,19 @@
 
 // const navigation = useNavigate() 
 
-// export default function Feed({ }) {
-//     return (
+export default function Feed({ }) {
+    return (
         
-//         <>
-//         <header>
+        <>
+{/* //         <header>
 //             {photolist.map(photo =>  (
 //                 <Post post={photo} navigation={navigation} key={photo.id} />
 //             ))}
-//         </header>
+//         </header> */}
 
-//         </>
-//     )
-// }
+        </>
+    )
+}
 
 
 
